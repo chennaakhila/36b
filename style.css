@@ -1,0 +1,22 @@
+
+.container{
+    width:90%;
+     padding-top:10px; 
+    padding-left:30px ; 
+    padding-right:30px ;
+    padding-bottom: 10px;
+    border: 2px solid crimson;
+}
+
+    
+
+.item-1,.item-2,.item-3,.item-4{ 
+    display: inline-block;
+    width: 280px;
+    height:280px;
+    margin: 10px;
+
+}
+img{
+    width:90% ;
+}
